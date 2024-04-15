@@ -1,5 +1,5 @@
-# CHARTS
-
-## Installation
-
-npm install --save chart.js react-chartjs-2
+# Exercise 5
+## Created by
+Lee
+## Description
+make 3 charts
